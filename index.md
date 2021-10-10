@@ -1,28 +1,20 @@
-## Welcome to my website
+## my website
 
 
 ```markdown
 <html>
-
+<h1>Welcome to 許安騏's website</h1>
 <body>
 <p>Hi!This is my website.</p>
 </body>
-<img src="6CEA935B-2695-4DB3-8FAE-26E45DDE0EC0.PNG" width="104" height="142" />
+<img src="6CEA935B-2695-4DB3-8FAE-26E45DDE0EC0.PNG" width="142" height="142" />
 </html>
 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[myfirstRmd](myfirstdoc.Rmd) and ![myphoto](src)
+[myfirstRmd](myfirstdoc.Rmd) 
 ```
 
